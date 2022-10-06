@@ -4,6 +4,8 @@
 - pip install Pillow
 - pip install pytesseract
 
+#run: python test.py 
+
 
 # for linux: 
 # 1. sudo apt install tesseract-ocr
